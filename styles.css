@@ -1,0 +1,49 @@
+body {
+    background-color: #151525;
+  }
+
+  h1 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 45px;
+    text-align: center;
+  }
+  h2 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+  }
+  h3 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+  }
+
+  p {
+    color: #e7e7e7;
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  /* unvisited link */
+a:link {
+    color: yellow;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(151, 153, 30);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(199, 150, 17);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(255, 174, 0);
+  }
